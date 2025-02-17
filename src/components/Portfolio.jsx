@@ -10,25 +10,25 @@ const Portfolio = () => {
       id: 1,
       src: arrayDestruct,
       demoLink: "https://rate-my-professor-gold.vercel.app/",
-      codeLink: "https://github.com/VivekAruja/Rate-My-Professor",
+      // codeLink: "https://github.com/VivekAruja/Rate-My-Professor",
     },
     {
       id: 2,
       src: reactParallax,
       demoLink: "https://ai-customer-support-nine-zeta.vercel.app/",
-      codeLink: "https://github.com/VivekAruja/AI-Customer-Support",
+      // codeLink: "https://github.com/VivekAruja/AI-Customer-Support",
     },
     {
       id: 3,
       src: navbar,
       demoLink: "https://ai-flashcards-two-blond.vercel.app/",
-      codeLink: "https://github.com/VivekAruja/ai-flashcards",
+      // codeLink: "https://github.com/VivekAruja/ai-flashcards",
     },
     {
       id: 4,
       src: reactSmooth,
       demoLink: "https://pantry-app-psi-three.vercel.app/",
-      codeLink: "https://github.com/VivekAruja/Pantry-App",
+      // codeLink: "https://github.com/VivekAruja/Pantry-App",
     },
   
   ];
